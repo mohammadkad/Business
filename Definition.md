@@ -3,3 +3,5 @@
 
 - Reverse Pitch, چالش(ارایه) معکوس
 - Reverse Pitch: A business model where a company or investor specifies a problem they want solved, inviting startups or innovators to pitch their solutions.
+
+- Red Ocean Strategy and its opposite, Blue Ocean Strategy
