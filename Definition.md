@@ -1,3 +1,7 @@
+<!-- 1404-11-30 -->
+- business model vs business plan
+- The business model is the logical foundation, while the business plan is the detailed blueprint built on top of that foundation.
+
 <!-- 1404-11-27 -->
 - Pitch deck:  is a brief presentation, typically created using slides, that provides an overview of your startup's business plan to potential investors (like angel investors or venture capitalists)
 
