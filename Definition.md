@@ -1,5 +1,5 @@
 <!-- 1404-11-30 -->
-- business model vs business plan
+- Business model vs Business plan
 - The business model is the logical foundation, while the business plan is the detailed blueprint built on top of that foundation.
 
 <!-- 1404-11-27 -->
